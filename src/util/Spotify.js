@@ -1,5 +1,5 @@
 let accessToken;
-const clientId = 'ce5b841833774515be527e1c97dbf83b';
+const clientId = ''; //Enter api key from spority here
 const redirectUri = 'http://localhost:3000/callback';
 
 
